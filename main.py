@@ -1,2 +1,4 @@
+x = 3
+b= 4
 
-ijijijvs
+print(x + b)
